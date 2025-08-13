@@ -1,2 +1,2 @@
 # Project1MinQuiz
-Basic quiz gor beginner in Python
+Basic quiz for beginner in Python
